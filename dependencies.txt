@@ -1,0 +1,11 @@
+Create a conda environment then activate it and run following commands:
+
+
+.) pip install tensorflow==2.4 | python 3.6
+
+.) conda install -c anaconda flask
+
+.) conda install -c anaconda gevent
+
+.) conda install -c anaconda pillow
+
